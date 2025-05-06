@@ -1,2 +1,2 @@
 # nutrition-label-JK-368
-my assignment for nutrition label
+my assignment for nutrition label in FCC
